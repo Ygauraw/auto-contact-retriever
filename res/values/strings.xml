@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Service</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="service">Start Service!</string>
+    <string name="cancel">End Service!</string>
+    <string name="delimiter_prompt">Choose a Delimiter</string>
+    <string name="keyword_hint">Choose a Keyword</string>
+
+    <string-array name="delimiters">
+        <item>,</item>
+        <item>/</item>
+        <item>;</item>
+        <item>:</item>
+        <item>*</item>
+    </string-array>
+</resources>
